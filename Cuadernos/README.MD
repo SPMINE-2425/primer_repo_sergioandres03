@@ -1,5 +1,3 @@
-¡Hola! ¡Qué emocionante proyecto! Aquí tienes un ejemplo de un README para la carpeta "Cuadernos":
-
 ---
 
 # Carpeta de Cuadernos
